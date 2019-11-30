@@ -36,3 +36,7 @@
 
 ![](../.gitbook/assets/screen-shot-2019-12-01-at-00.17.33%20%281%29.png)
 
+安装好后大概就是这个样子：
+
+![](../.gitbook/assets/screen-shot-2019-12-01-at-00.29.48.png)
+
