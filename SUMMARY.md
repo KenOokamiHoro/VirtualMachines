@@ -11,10 +11,10 @@
 
 ## 第一台虚拟机 <a id="first_virtual_machine"></a>
 
-* [下载、安装和设置 VirtualBox](first_virtual_machine/xia-zai-an-zhuang-he-she-zhi-virtualbox.md)
-* [创建虚拟机](first_virtual_machine/chuang-jian-xu-ni-ji.md)
-* [为虚拟机安装操作系统](first_virtual_machine/wei-xu-ni-ji-an-zhuang-cao-zuo-xi-tong.md)
-* [安装辅助工具](first_virtual_machine/an-zhuang-fu-zhu-gong-ju.md)
+* [下载、安装和设置 VirtualBox](first_virtual_machine/setting_up_virtualbox.md)
+* [创建虚拟机](first_virtual_machine/create_virtual_machine.md)
+* [为虚拟机安装操作系统](first_virtual_machine/install_guest_os.md)
+* [在 Windows 虚拟机中安装增强功能](first_virtual_machine/install_guest_additions_windows.md)
 
 ## 虚拟机的日常操作
 
