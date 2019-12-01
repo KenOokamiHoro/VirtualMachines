@@ -11,6 +11,7 @@
 
 ## 第一台虚拟机 <a id="first_virtual_machine"></a>
 
+* [检查虚拟化相关功能的状态](first_virtual_machine/check_status.md)
 * [下载、安装和设置 VirtualBox](first_virtual_machine/setting_up_virtualbox.md)
 * [创建虚拟机](first_virtual_machine/create_virtual_machine.md)
 * [为虚拟机安装操作系统](first_virtual_machine/install_guest_os.md)
