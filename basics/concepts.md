@@ -37,11 +37,11 @@
 
 运行在虚拟机软件内部的操作系统，就称为“Guest OS”啦。
 
-![&#x865A;&#x62DF;&#x5316;&#x8F6F;&#x4EF6;&#x7684;&#x5178;&#x578B;&#x7ED3;&#x6784;&#xFF0C;&#x4ECE;&#x4E0A;&#x5230;&#x4E0B;&#x5206;&#x522B;&#x662F;&#x865A;&#x62DF;&#x673A;&#x8F6F;&#x4EF6;&#x3001;Host OS &#x548C;&#x4E3B;&#x673A;&#x786C;&#x4EF6;&#x3002;](../.gitbook/assets/guest_os_diagram.jpg)
+![&#x865A;&#x62DF;&#x5316;&#x8F6F;&#x4EF6;&#x7684;&#x5178;&#x578B;&#x7ED3;&#x6784;&#xFF0C;&#x4ECE;&#x4E0A;&#x5230;&#x4E0B;&#x5206;&#x522B;&#x662F;&#x865A;&#x62DF;&#x673A;&#x8F6F;&#x4EF6;&#xFF08;&#x548C;&#x5176;&#x4E2D;&#x7684;&#x865A;&#x62DF;&#x7CFB;&#x7EDF;&#xFF09;&#x3001;Host OS &#x548C;&#x4E3B;&#x673A;&#x786C;&#x4EF6;&#x3002;](../.gitbook/assets/guest_os_diagram.jpg)
 
 ## 全虚拟化和硬件协助虚拟化又是啥咧？
 
-这大概要从波佩克与戈德堡虚拟化需求开始说起：
+这大概要从[波佩克与戈德堡虚拟化需求](https://en.wikipedia.org/wiki/Popek_and_Goldberg_virtualization_requirements)开始说起：
 
 > * 等价性：一个运行于VMM下的程序，其行为应与直接运行于等价物理机上的同程序的行为完全一致。
 > * 资源控制：VMM对虚拟资源进行完全控制。 
